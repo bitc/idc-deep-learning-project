@@ -1,0 +1,10 @@
+The interesting files are:
+
+exp1.py
+exp2_prepare_data.py
+exp2.py
+exp3_prepare_data.py
+exp3.py
+
+The "src" directory contains C source code for capturing image frames from the camera.
+

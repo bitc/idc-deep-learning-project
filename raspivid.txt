@@ -1,0 +1,1 @@
+raspivid -b 500000 -a 1036 -br 75 -co 65 -fps 15 -w 1280 -h 720 -md 2 -ex off -awb auto -sa -100 -ss 60000 -n -t 0 -rf gray -r pipe -o - > /dev/null
